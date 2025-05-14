@@ -5,7 +5,7 @@ const sampleProfiles: DancerProfile[] = [{
   id: '1',
   name: 'Sofia',
   age: 28,
-  image: 'https://images.unsplash.com/photo-1534339480783-6816b68be76c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+  image: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
   styles: ['Salsa', 'Bachata'],
   skillLevel: 'Advanced',
   location: 'New York, NY',
